@@ -26,9 +26,6 @@ This repository contains solutions to various Data Structures and Algorithms (DS
 - **Dynamic Programming**
 - **Greedy Algorithms**
 - **Backtracking**
-- **Divide and Conquer**
-- **Bit Manipulation**
-- **Mathematical Algorithms**
 
 ## Purpose
 The primary aim of this repo is to:
